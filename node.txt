@@ -1,2 +1,3 @@
 #节点列表
-vmess://YWVzLTEyOC1nY206OTYwZWJhMjMtNzIzYS00MTQwLWE2MjUtMDk4MjI0MzAyZjNlQGxpbmstc3Rhci54eXo6NDQz?remarks=v-ws&obfsParam=%7B%22header%22:%22utp%22,%22Host%22:%22link-star.xyz%22%7D&path=/3ada&obfs=websocket&tls=1&alterId=64
+vmess://YWVzLTEyOC1nY206MGM3NGVjYjAtNDY1OS00MTE1LWI4MjYtYjM4NTM1YzRkMDdkQGxpbmstc3Rhci50b3A6NDQz?remarks=ws65&obfsParam=link-star.top&path=/f6ea&obfs=websocket&tls=1&alterId=64
+vmess://YWVzLTEyOC1nY206OTYwZWJhMjMtNzIzYS00MTQwLWE2MjUtMDk4MjI0MzAyZjNlQGxpbmstc3Rhci54eXo6NDQz?remarks=ws224&obfsParam=link-star.xyz&path=/3ada&obfs=websocket&tls=1&alterId=64
